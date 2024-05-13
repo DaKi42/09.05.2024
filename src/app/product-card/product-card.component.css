@@ -1,0 +1,18 @@
+.card {
+    border: 1px solid #b9b8b8;
+    padding: 10px;
+    margin: 10px;
+}
+
+.card img {
+    max-width: 100%;
+    height: auto;
+}
+
+.card p {
+    margin-top: 10px;
+    font-size: 17px;
+    color: rgb(132, 132, 228);
+    font-weight: bold;
+    text-align: center;
+}
